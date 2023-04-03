@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\bin\Debug\net6.0\ExercicioSalario.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\bin\Debug\net6.0\ExercicioSalario.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\bin\Debug\net6.0\ExercicioSalario.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\bin\Debug\net6.0\ExercicioSalario.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\bin\Debug\net6.0\ExercicioSalario.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\refint\ExercicioSalario.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ExercicioSalario.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalario\ExercicioSalario\obj\Debug\net6.0\ref\ExercicioSalario.dll
