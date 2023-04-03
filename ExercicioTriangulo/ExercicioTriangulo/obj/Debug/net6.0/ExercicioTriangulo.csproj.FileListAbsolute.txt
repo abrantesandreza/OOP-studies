@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net6.0\ExercicioTriangulo.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net6.0\ExercicioTriangulo.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net6.0\ExercicioTriangulo.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net6.0\ExercicioTriangulo.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net6.0\ExercicioTriangulo.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\refint\ExercicioTriangulo.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ExercicioTriangulo.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net6.0\ref\ExercicioTriangulo.dll
