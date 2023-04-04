@@ -1,0 +1,10 @@
+﻿
+namespace ExemploBaseDeArquivo
+{
+    class BaseClass
+    {
+
+
+
+    }
+}
