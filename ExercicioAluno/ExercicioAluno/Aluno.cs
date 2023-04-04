@@ -1,0 +1,10 @@
+﻿
+namespace ExercicioAluno
+{
+    class Aluno
+    {
+
+
+
+    }
+}
