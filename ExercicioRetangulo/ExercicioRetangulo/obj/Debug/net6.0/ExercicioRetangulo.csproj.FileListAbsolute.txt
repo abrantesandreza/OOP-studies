@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\net6.0\ExercicioRetangulo.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\net6.0\ExercicioRetangulo.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\net6.0\ExercicioRetangulo.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\net6.0\ExercicioRetangulo.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\net6.0\ExercicioRetangulo.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\refint\ExercicioRetangulo.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ExercicioRetangulo.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\net6.0\ref\ExercicioRetangulo.dll
