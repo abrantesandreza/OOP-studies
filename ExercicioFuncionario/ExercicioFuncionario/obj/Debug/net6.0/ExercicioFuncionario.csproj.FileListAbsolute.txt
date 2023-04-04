@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net6.0\ExercicioFuncionario.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net6.0\ExercicioFuncionario.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net6.0\ExercicioFuncionario.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net6.0\ExercicioFuncionario.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net6.0\ExercicioFuncionario.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\refint\ExercicioFuncionario.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ExercicioFuncionario.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net6.0\ref\ExercicioFuncionario.dll
