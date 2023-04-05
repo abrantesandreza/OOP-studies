@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.AssemblyInfo.cs
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\bin\Debug\net6.0\ExercicioAluno.exe
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\bin\Debug\net6.0\ExercicioAluno.deps.json
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\bin\Debug\net6.0\ExercicioAluno.runtimeconfig.json
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\bin\Debug\net6.0\ExercicioAluno.dll
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\bin\Debug\net6.0\ExercicioAluno.pdb
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.dll
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\refint\ExercicioAluno.dll
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.pdb
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ExercicioAluno.genruntimeconfig.cache
+C:\Users\SMN\Desktop\OOP-studies\ExercicioAluno\ExercicioAluno\obj\Debug\net6.0\ref\ExercicioAluno.dll

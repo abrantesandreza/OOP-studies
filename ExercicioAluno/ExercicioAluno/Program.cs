@@ -1,4 +1,4 @@
-﻿using ExercicioFuncionario;
+﻿using ExercicioAluno;
 using System;
 using System.Globalization;
 

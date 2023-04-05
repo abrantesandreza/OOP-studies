@@ -1,4 +1,4 @@
-﻿using System.Globalization
+﻿using System.Globalization;
 
 namespace ExercicioAluno
 {
@@ -11,22 +11,20 @@ namespace ExercicioAluno
 
 
         public double NotaFinal() {
-            return NotaPrimeiroTri + NotaSegundoTri + NotaTerceiroTri
+            return NotaPrimeiroTri + NotaSegundoTri + NotaTerceiroTri;
         }
 
         public string AprovadoOuReprovado() {
-            if (NotaFinal() > 60.0) {
-                return "APROVADO"
+            if (NotaFinal() >= 60.0) {
+                return "APROVADO";
             } else {
-                return "REPROVADO"
+                double faltaParaPassar = 60 - NotaFinal();
+                Console.WriteLine($"FALTARAM: {faltaParaPassar.ToString("F2", CultureInfo.InvariantCulture)} PONTO(S)");
+                return "REPROVADO";
             }
         }
 
-        public double SeReprovado() {
-            if (AprovadoOuReprovado() == "REPROVADO") {
-                return 100 - NotaFinal()
-            }
-        }
+        
 
     }
 }
