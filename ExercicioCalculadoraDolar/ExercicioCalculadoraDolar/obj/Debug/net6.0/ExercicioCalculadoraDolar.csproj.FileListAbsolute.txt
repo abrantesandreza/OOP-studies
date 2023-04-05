@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\bin\Debug\net6.0\ExercicioCalculadoraDolar.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\bin\Debug\net6.0\ExercicioCalculadoraDolar.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\bin\Debug\net6.0\ExercicioCalculadoraDolar.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\bin\Debug\net6.0\ExercicioCalculadoraDolar.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\bin\Debug\net6.0\ExercicioCalculadoraDolar.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\refint\ExercicioCalculadoraDolar.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ExercicioCalculadoraDolar.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCalculadoraDolar\ExercicioCalculadoraDolar\obj\Debug\net6.0\ref\ExercicioCalculadoraDolar.dll
