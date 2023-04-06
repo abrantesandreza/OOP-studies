@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\refint\ExercicioProduto.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ref\ExercicioProduto.dll
