@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\refint\ExercicioBanco.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ref\ExercicioBanco.dll
