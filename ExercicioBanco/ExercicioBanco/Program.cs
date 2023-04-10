@@ -9,6 +9,8 @@ namespace Course
         static void Main(string[] args)
         {
 
+            ContaBancaria contaBancaria;
+
             Console.WriteLine("Vamos criar a sua conta!");
             Console.WriteLine();
             Console.Write("Entre o número da sua conta: ");
@@ -20,18 +22,18 @@ namespace Course
             Console.Write("Haverá depósito inicial (s/n)? ");
             char userResponse = char.Parse(Console.ReadLine());
 
-            //Valor default para o saldo
-            double valorDepositoInicial = 0.0;
-
             //Caso exista valor depositado no momento da criação da conta
             if (userResponse == 's' || userResponse == 'S')
             {
                 Console.Write("Entre o valor do depósito inicial: ");
-                valorDepositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                double valorDepositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                //Construtor caso receba depósito inicial 
+                contaBancaria = new ContaBancaria(numeroConta, nomeTitular, valorDepositoInicial); 
+            } else
+            {
+                //Construtor para os casos que não recebem depósitos iniciais
+                contaBancaria = new ContaBancaria(numeroConta, nomeTitular);
             }
-
-            //Instanciando a classe ContaBancaria
-            ContaBancaria contaBancaria = new ContaBancaria(numeroConta, nomeTitular, valorDepositoInicial);
 
             Console.WriteLine();
             Console.WriteLine("Dados da conta: ");
