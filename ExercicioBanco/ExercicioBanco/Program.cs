@@ -8,7 +8,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-
+            //Declarando a variavel
             ContaBancaria contaBancaria;
 
             Console.WriteLine("Vamos criar a sua conta!");
@@ -27,11 +27,11 @@ namespace Course
             {
                 Console.Write("Entre o valor do depósito inicial: ");
                 double valorDepositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                //Construtor caso receba depósito inicial 
+                //Instanciando a classe com o construtor para o caso de receber um depósito inicial 
                 contaBancaria = new ContaBancaria(numeroConta, nomeTitular, valorDepositoInicial); 
             } else
             {
-                //Construtor para os casos que não recebem depósitos iniciais
+                //Instanciando a classe com o construtor para os casos que não recebem depósitos iniciais
                 contaBancaria = new ContaBancaria(numeroConta, nomeTitular);
             }
 
