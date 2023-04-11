@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\bin\Debug\net6.0\ExercicioHostel.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\bin\Debug\net6.0\ExercicioHostel.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\bin\Debug\net6.0\ExercicioHostel.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\bin\Debug\net6.0\ExercicioHostel.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\bin\Debug\net6.0\ExercicioHostel.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\refint\ExercicioHostel.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ExercicioHostel.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioHostel\ExercicioHostel\obj\Debug\net6.0\ref\ExercicioHostel.dll
