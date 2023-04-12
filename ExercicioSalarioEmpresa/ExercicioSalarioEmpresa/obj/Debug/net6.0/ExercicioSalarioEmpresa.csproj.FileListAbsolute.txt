@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\bin\Debug\net6.0\ExercicioSalarioEmpresa.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\bin\Debug\net6.0\ExercicioSalarioEmpresa.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\bin\Debug\net6.0\ExercicioSalarioEmpresa.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\bin\Debug\net6.0\ExercicioSalarioEmpresa.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\bin\Debug\net6.0\ExercicioSalarioEmpresa.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\refint\ExercicioSalarioEmpresa.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ExercicioSalarioEmpresa.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioSalarioEmpresa\ExercicioSalarioEmpresa\obj\Debug\net6.0\ref\ExercicioSalarioEmpresa.dll
