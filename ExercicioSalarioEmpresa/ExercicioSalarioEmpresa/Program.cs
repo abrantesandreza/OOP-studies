@@ -13,6 +13,7 @@ namespace Course
             Console.Write("How many employees will be registered? ");
             int qntdEmployee = int.Parse(Console.ReadLine());
 
+            //Cria uma lista vazia para receber as informações dos funcionários
             List<Employee> employeeList = new List<Employee>();
 
             for (int i = 1; i <= qntdEmployee; i++)
@@ -27,7 +28,7 @@ namespace Course
                 Console.Write("Salary: ");
                 double salaryEmployee = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                //Instanciando a classe Employee no método .Add
+                //Instancia a classe Employee no método .Add
                 employeeList.Add(new Employee(idEmployee, nameEmployee, salaryEmployee));
                 Console.WriteLine();
 
@@ -40,7 +41,7 @@ namespace Course
 
             Employee employee = employeeList.Find(x => x.Id == selectedIdEmployee);
 
-            //Verificando se o Id é existente
+            //Verifica se o Id é existente
             if (employee != null)
             {
                 Console.Write("Enter the percentage: ");
@@ -53,6 +54,7 @@ namespace Course
 
             Console.WriteLine();
             Console.WriteLine("Upated list of employees:");
+            //Itera pela lista populada de funcionários
             foreach (Employee employees in employeeList)
             {
                 Console.WriteLine(employees);
