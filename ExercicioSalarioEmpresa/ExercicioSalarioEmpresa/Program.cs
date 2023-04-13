@@ -27,6 +27,7 @@ namespace Course
                 Console.Write("Salary: ");
                 double salaryEmployee = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+                //Instanciando a classe Employee no método .Add
                 employeeList.Add(new Employee(idEmployee, nameEmployee, salaryEmployee));
                 Console.WriteLine();
 
@@ -34,11 +35,12 @@ namespace Course
 
             Console.Write("Enter the employee Id that will have salary increase: ");
             int selectedIdEmployee = int.Parse(Console.ReadLine());
-
+            
             Console.WriteLine();
 
             Employee employee = employeeList.Find(x => x.Id == selectedIdEmployee);
-            //
+
+            //Verificando se o Id é existente
             if (employee != null)
             {
                 Console.Write("Enter the percentage: ");
