@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\refint\ProjetoProduto.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ref\ProjetoProduto.dll
