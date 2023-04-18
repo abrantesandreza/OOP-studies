@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\bin\Debug\net6.0\ExercicioCompany.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\bin\Debug\net6.0\ExercicioCompany.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\bin\Debug\net6.0\ExercicioCompany.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\bin\Debug\net6.0\ExercicioCompany.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\bin\Debug\net6.0\ExercicioCompany.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\refint\ExercicioCompany.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ExercicioCompany.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioCompany\ExercicioCompany\obj\Debug\net6.0\ref\ExercicioCompany.dll

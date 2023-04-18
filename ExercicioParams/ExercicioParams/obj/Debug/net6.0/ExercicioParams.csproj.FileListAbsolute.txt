@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.AssemblyInfo.cs
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\bin\Debug\net6.0\ExercicioParams.exe
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\bin\Debug\net6.0\ExercicioParams.deps.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\bin\Debug\net6.0\ExercicioParams.runtimeconfig.json
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\bin\Debug\net6.0\ExercicioParams.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\bin\Debug\net6.0\ExercicioParams.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\refint\ExercicioParams.dll
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.pdb
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ExercicioParams.genruntimeconfig.cache
+C:\Users\SMN\Desktop\andreza\csharpPOO\projetos\nelioOOP\ExercicioParams\ExercicioParams\obj\Debug\net6.0\ref\ExercicioParams.dll
