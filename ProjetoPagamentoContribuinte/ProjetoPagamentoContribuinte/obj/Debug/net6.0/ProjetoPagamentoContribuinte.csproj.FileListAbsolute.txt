@@ -1,0 +1,15 @@
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.AssemblyInfo.cs
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\bin\Debug\net6.0\ProjetoPagamentoContribuinte.exe
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\bin\Debug\net6.0\ProjetoPagamentoContribuinte.deps.json
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\bin\Debug\net6.0\ProjetoPagamentoContribuinte.runtimeconfig.json
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\bin\Debug\net6.0\ProjetoPagamentoContribuinte.dll
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\bin\Debug\net6.0\ProjetoPagamentoContribuinte.pdb
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.dll
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\refint\ProjetoPagamentoContribuinte.dll
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.pdb
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ProjetoPagamentoContribuinte.genruntimeconfig.cache
+C:\Users\SMN\Desktop\OOP-studies\ProjetoPagamentoContribuinte\ProjetoPagamentoContribuinte\obj\Debug\net6.0\ref\ProjetoPagamentoContribuinte.dll
