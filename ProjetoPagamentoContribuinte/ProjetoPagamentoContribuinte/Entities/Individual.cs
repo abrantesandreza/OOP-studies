@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjetoPagamentoContribuinte.Entities
 {
@@ -23,19 +20,13 @@ namespace ProjetoPagamentoContribuinte.Entities
         {
             if (AnualIncome < 20000.00)
             {
-                return (AnualIncome * 15.0) / 100;
+                return (AnualIncome * 0.15) - (HealthExpenditures * 0.5);
             }
-            else if (AnualIncome > 20000.00)
+            else
             {
-                return (AnualIncome * 25.0) / 100;
+                return (AnualIncome * 0.25) - (HealthExpenditures * 0.5);
             }
         }
-
-        public double HealthTax()
-        {
-            double healthDiscount = HealthExpenditures / 2.0;
-            return Tax() - healthDiscount;
-        }
-
+        
     }
 }

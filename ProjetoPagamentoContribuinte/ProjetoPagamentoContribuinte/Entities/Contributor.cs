@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjetoPagamentoContribuinte.Entities
 {
@@ -16,7 +13,7 @@ namespace ProjetoPagamentoContribuinte.Entities
         {
         }
 
-        public Contributor(string name, double anualIncome)
+        protected Contributor(string name, double anualIncome)
         {
             Name = name;
             AnualIncome = anualIncome;

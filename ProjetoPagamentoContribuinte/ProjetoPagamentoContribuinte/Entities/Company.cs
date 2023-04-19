@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjetoPagamentoContribuinte.Entities
 {
@@ -21,13 +18,14 @@ namespace ProjetoPagamentoContribuinte.Entities
 
         public override double Tax()
         {
-            double defaultCompanyTax = (AnualIncome * 16.0) / 100;
             if (EmployeeQuantity > 10)
             {
-                return (AnualIncome * 14.0) / 100;
+                return AnualIncome * 0.14;
+            } 
+            else {
+                return AnualIncome * 0.16;
             }
-            return defaultCompanyTax;
         }
-
+        
     }
 }
